@@ -4,7 +4,7 @@
 
 <strong>Staff / Lead Frontend Engineer | React, Next.js, TypeScript & Developer Tooling</strong>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/radomir-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 ## About Me
@@ -47,6 +47,27 @@ Most production work lives in private enterprise repos; below are representative
 
 **Additional contributions:** API endpoints, schemas, and comprehensive tests across internal platform services (Node/Nest, TypeScript) plus a customer support suite; champion of API documentation and visible progress tracking.
 
+## Selected Projects
+Open source, published to npm, with live demos.
+
+### pr-scene — *TypeScript · Screenshot Pipeline*
+- Renders a believable pull request — comments, checks, reviews, merge state — from plain JSON, so a GitHub Action can show what it does before anyone installs it.
+- Framework-agnostic HTML in one scoped stylesheet; published to npm with an interactive playground.
+
+**[Live demo](https://www.radomir.dev/pr-scene/) · [Source](https://github.com/radomir-dev/pr-scene)**
+
+### pollhook — *TypeScript · CLI · GitHub API*
+- GitHub webhook deliveries without webhooks: polls the REST API with a read-only token and emits GitHub-shaped events, so CI waits and event streams work without admin rights or a public URL.
+- Runs as a CLI and a long-running daemon, with rate-limit handling and a JSON status surface.
+
+**[Live demo](https://www.radomir.dev/pollhook/) · [Source](https://github.com/radomir-dev/pollhook)**
+
+### mui-collage-fab — *React · Material UI · Component Library*
+- A Material UI floating action button that reads as one stacked circle and morphs open into a row, two axes or a radial ring, with masks sliding in lockstep with the motion.
+- Mask-based clipping keeps the unfold a single continuous morph; peer dependencies only, so it never ships its own React or MUI.
+
+**[Live demo](https://www.radomir.dev/mui-collage-fab/) · [Source](https://github.com/radomir-dev/mui-collage-fab)**
+
 ## Career Highlights
 - **15+ years** in software engineering with a primary specialization and expert focus on React, Next.js, and TypeScript architecture.
 - **Technical Lead (3 years):** guided a team of 4–5 developers through agile workflows, architecture decisions, and code review standards.
@@ -54,7 +75,7 @@ Most production work lives in private enterprise repos; below are representative
 
 ## Contact & Focus Areas
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/radomir-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)

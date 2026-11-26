@@ -4,7 +4,7 @@ author: Radomir Wojtera
 url: "https://www.radomir.dev"
 image: /assets/images/the_face.png
 twitter_username: phantombit
-github_username: tiriana
+github_username: radomir-dev
 remote_theme: "godalming123/minimal"
 plugins:
   - jekyll-remote-theme
